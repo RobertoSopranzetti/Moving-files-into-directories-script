@@ -1,0 +1,33 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# User-specific configuration
+config.local.json
+*.local.ps1
+
+# Test files
+test/
+temp/
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS specific
+.DS_Store
+*.swp
+*.swo
