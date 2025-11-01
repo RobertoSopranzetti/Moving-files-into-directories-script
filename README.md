@@ -14,7 +14,7 @@ A collection of generic and versatile PowerShell scripts for automated PDF file 
 
 ## 🔧 Available Scripts
 
-### 1. Rinomina_Scansioni.ps1
+### 1. Rename_Scan.ps1
 Adds a customizable suffix to PDF filenames.
 
 **Use case:** Quickly rename scanned files by adding labels such as "minutes", "final", "draft", etc.
